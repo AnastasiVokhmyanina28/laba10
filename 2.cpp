@@ -46,9 +46,9 @@ int main()
 		{
 			wcout << path << endl;
 		}else
-			cout << "Îøèáêà OpenDlg();" << endl;
+			cout << "ÃÃ¸Ã¨Ã¡ÃªÃ  OpenDlg();" << endl;
 	}else
-		cout << "Îøèáêà CoInitializeEx();" << endl;
+		cout << "ÃÃ¸Ã¨Ã¡ÃªÃ  CoInitializeEx();" << endl;
 	CoUninitialize();
 	system("pause");
 }
